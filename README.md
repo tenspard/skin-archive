@@ -1,3 +1,0 @@
-# skin-archive
-
-**osu! skins**
